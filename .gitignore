@@ -1,0 +1,4 @@
+.env
+.streamlit/firestore-key.json
+__pycache__/
+.gradio/
